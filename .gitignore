@@ -1,0 +1,10 @@
+../.venv/
+venv/
+ENV/
+
+__pycache__/
+*.pyc
+
+.idea/
+ocr_app/static/uploads/*
+!ocr_app/static/uploads/.gitkeep
